@@ -1,6 +1,6 @@
 # Notebook Checkpoints
 .ipynb_checkpoints/
 
-audio_training2.ipynb
-audio_training_output.ipynb
-evaluation.ipynb
+./audio_training2.ipynb
+./audio_training_output.ipynb
+./evaluation.ipynb
