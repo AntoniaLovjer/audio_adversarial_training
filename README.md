@@ -6,9 +6,9 @@ Milestone: In this itera- tion of our project, we demonstrate the feasibil- ity 
 
 This project requires Python and the following Python libraries installed:
 
-*numpy
-*PyTorch
-*Scipy
+* numpy
+* PyTorch
+* Scipy
 
 ## Code:
 
@@ -18,7 +18,7 @@ The models are run in the audio_training.ipynb notebook. For loading the data us
 
 Trained models are found in the "saved" folder which can be loaded using
 
-'''
+```
 torch.load(model_name)
-'''
+```
 
